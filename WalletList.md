@@ -9,11 +9,13 @@ The following is the list to keep track of which wallets are audited. Make a PR 
 
 
 ## From TG
+- Metamask Snaps: Chainsafe + Matt Lockyer 
 - Cypherock https://cypherock.com
 - NEARFI https://github.com/DegaLabs/nearfi-apks/blob/master/NearFiWallet.apk
 - XDEFI Wallet (xdefi.io).
 - ExcheQR www.excheqr.xyz
 - Leap Wallet
-- Strike
+- Strike Protocols: Andrew ____, Alvaro Lorenzo 
 - Finer Wallet
 - HERE Wallet 
+- 
